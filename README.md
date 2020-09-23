@@ -31,7 +31,7 @@ following ways:
  * View a patient by medical record number
  
 #### 3. Create a Patient Projection
-Create a patient projection which consists of:
+Create a REST projection for patients which consists of:
 
  * Id
  * Medical record number
