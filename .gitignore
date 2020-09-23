@@ -5,7 +5,7 @@ bin
 .idea
 /build/
 out
-.gradle
+/.gradle/
 .DS_Store
 mongodb-data
 .vscode
