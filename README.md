@@ -57,6 +57,10 @@ Finally, add another endpoint to your newly created patient controller. This end
  * Insert patient rows found in the CSV into the database
  * Require that a patient row contain a medical record number in order to be inserted (other fields are optional)
 
+## Setup
+
+This project requires Java 11 or greater. We recommend running this application in an IDE such as IntelliJ. This can be
+done by creating a Gradle run configuration with the tasks `clean build bootRun`.
 
 ## Wrap Up
 
