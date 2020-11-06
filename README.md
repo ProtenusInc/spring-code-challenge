@@ -30,6 +30,12 @@ following ways:
  * View a patient by id
  * View a patient by medical record number
  
+**TIP**: With this completed you should be able to test out your application with a REST tester:
+
+ * POST http://localhost:8080/patients (example URL) for creating a new patient
+ * GET  http://localhost:8080/patients for listing patients
+ * etc.
+ 
 #### 3. Create a Patient Projection
 Create a REST projection for patients which consists of:
 
